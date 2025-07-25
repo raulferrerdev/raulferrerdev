@@ -24,7 +24,7 @@
 - 🔜 Building real-world mobile use cases with on-device AI
 - 🧪 Experimenting with YOLOv8 for custom image detection
 
-📌 Follow my journey at: [itsthatlady.dev](https://itsthatlady.dev)
+📌 Follow my journey at: [raulferrergarcia.com](https://raulferrergarcia.com)
 
 ---
 
@@ -69,10 +69,9 @@
 
 ## 📬 Let's Connect
 
-- 📧 Email: raulferrer.dev@gmail.com
+- 📧 Email: raulferrer.dev@icloud.com
 - 🐦 Twitter: [@raulferrerdev](https://twitter.com/raulferrerdev)
 - 💼 LinkedIn: [linkedin.com/in/raulferrerdev](https://www.linkedin.com/in/raulferrerdev/)
-- 🌐 Portfolio: [itsthatlady.dev](https://itsthatlady.dev)
 
 ---
 
