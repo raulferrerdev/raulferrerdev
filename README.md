@@ -16,9 +16,19 @@ Enterprise RAG systems that work in production — not just in demos.
 
 Most enterprise AI projects fail silently. The retrieval pipeline degrades. The model hallucinates with confidence. Nobody notices until the damage is done. I'm building the technical foundation and the audit framework to fix that.
 
-```
-Java 21  ·  Spring Boot 3  ·  LangChain4j  ·  Weaviate  ·  RAGAs  ·  OpenTelemetry
-```
+---
+
+## Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Language | Java 21 |
+| Framework | Spring Boot 3.x |
+| AI orchestration | LangChain4j |
+| Vector database | Weaviate |
+| Evaluation | RAGAs (via Python bridge) |
+| Observability | OpenTelemetry + LangFuse |
+| Testing | JUnit 5 + Testcontainers |
 
 ---
 
@@ -51,10 +61,18 @@ Six modules, built and documented in public:
 
 ## 📰 Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Reliable Enterprise AI: Why Architecture Matters More Than Prompts](https://levelup.gitconnected.com/beyond-the-prompt-why-enterprise-ai-needs-architecture-not-just-clever-prompts-3f2523baa47f)
+- [Reliable Enterprise AI: What Enterprise Architects Must Understand About Transformers](https://medium.com/gitconnected/reliable-enterprise-ai-attention-is-all-you-need-explained-for-enterprise-architects-bfaebf2c0089)
 
-> _This section updates automatically if you set up the [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)_
+---
+
+## Background
+
+- PhD, Analytical Chemistry — Universitat de Barcelona
+- Author, *iOS Architecture Patterns* (Apress)
+- Tech Lead, Vicens Vives Digital — 13 years
+- AI for Enterprises — Wharton Executive Education
+- AI for Product Managers — Duke University
 
 ---
 
