@@ -1,52 +1,43 @@
-# 👋 Hey, I'm Raúl Ferrer
+# Raúl Ferrer
 
-🎯 **Tech Lead & Mobile Developer** focused on building high-quality cross-platform apps.  
-🧠 Passionate about productivity, leadership, clean architecture, and now diving into the world of AI.
+**Tech Lead · PhD | Building Reliable Enterprise AI**
 
----
+I started with chemistry. A PhD in Analytical Chemistry trained me to find structure in complex systems and never mistake a clean result in the lab for a reliable one in the field. That discipline has shaped everything I've built since.
 
-## 🚀 What I'm Working On
+13 years leading engineering teams at [Vicens Vives Digital](https://www.vicensvivesdigital.com) — from native iOS to Flutter, from mobile architecture to the platform serving 30,000+ students across Spain. Author of [*iOS Architecture Patterns*](https://link.springer.com/book/9781484260418) (Apress).
 
-- Leading mobile teams delivering educational apps on Android, iOS, Windows, and Linux.
-- Migrating apps from Flutter to **JetBrains Compose Multiplatform**.
-- Writing about mobile dev, leadership, and self-improvement.
-- 📚 **Exploring AI from scratch** — see my learning roadmap below!
+Now I'm focused on a harder problem.
 
 ---
 
-## 🧠 AI Learning Roadmap (2025)
+## What I'm building
 
-> “You can't lead the future if you ignore it.” — Starting small, learning consistently.
+Enterprise RAG systems that work in production — not just in demos.
 
-- ✅ Week 1–2: Understand basic AI concepts (ML, DL, LLMs)
-- ✅ Week 3: Built my first simple neural net with Python
-- 🔄 Week 4–5: Learning PyTorch and TensorFlow hands-on
-- 🔜 Building real-world mobile use cases with on-device AI
-- 🧪 Experimenting with YOLOv8 for custom image detection
+Most enterprise AI projects fail silently. The retrieval pipeline degrades. The model hallucinates with confidence. Nobody notices until the damage is done. I'm building the technical foundation and the audit framework to fix that.
 
-📌 Follow my journey at: [raulferrergarcia.com](https://raulferrergarcia.com)
+```
+Java 21  ·  Spring Boot 3  ·  LangChain4j  ·  Weaviate  ·  RAGAs  ·  OpenTelemetry
+```
 
 ---
 
-## 🛠️ Favorite Tech Stack
+## reliable-enterprise-ai
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/-Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![SQLDelight](https://img.shields.io/badge/-SQLDelight-yellow?style=flat&logo=sqlite&logoColor=black)
-![Clean Architecture](https://img.shields.io/badge/-CleanArchitecture-6e5494?style=flat)
-![DDD](https://img.shields.io/badge/-DDD-blueviolet?style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white)
+My main public project — a hands-on knowledge base for building, evaluating and auditing production-grade RAG systems.
 
----
+Six modules, built and documented in public:
 
-## ✍️ Writing & Resources
+| Module | Focus | Status |
+|--------|-------|--------|
+| 01 · RAG Foundations | Core pipeline: ingest → embed → retrieve → generate | 🔄 In progress |
+| 02 · Advanced Retrieval | Hybrid search, re-ranking, HyDE | 📋 Planned |
+| 03 · Reliability Patterns | Hallucination detection, confidence scoring, fallbacks | 📋 Planned |
+| 04 · Evaluation Framework | RAGAs metrics, golden datasets, automated evaluation | 📋 Planned |
+| 05 · Security | RAG poisoning, prompt injection, access control | 📋 Planned |
+| 06 · EU AI Act | Compliance checklist, logging, technical documentation | 📋 Planned |
 
-- 📘 Blog: [itsthatlady.dev](https://itsthatlady.dev)
-- 📰 Medium: [@raulferrerdev](https://medium.com/@raulferrerdev)
-- 📬 Substack: [raul.substack.com](https://raul.substack.com)
+→ [reliable-enterprise-ai](https://github.com/raulferrergarcia/reliable-enterprise-ai)
 
 ---
 
@@ -70,9 +61,10 @@
 ## 📬 Let's Connect
 
 - 📧 Email: raulferrer.dev@icloud.com
-- 🐦 Twitter: [@raulferrerdev](https://twitter.com/raulferrerdev)
-- 💼 LinkedIn: [linkedin.com/in/raulferrerdev](https://www.linkedin.com/in/raulferrerdev/)
+- 💼 LinkedIn: [linkedin.com/in/raulferrerdev](https://www.linkedin.com/in/raulferrergarcia/)
+- 🐦 Twitter: [@raulferrerdev](https://twitter.com/raulferrerai)
+- 📰 Medium: [@raulferrerdev](https://medium.com/@raulferrerdev)
 
 ---
 
-> _"Focus on the process, not the noise."_ — Raúl Ferrer
+*"You can't lead the reliability of an AI system if you've never built one yourself."*
